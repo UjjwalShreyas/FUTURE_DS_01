@@ -1,0 +1,29 @@
+Business Sales Performance Analysis, Insights and RecommendationsFuture Interns, Data Science and Analytics, Task 1
+
+Dataset: Superstore (Sample)
+
+1. OverviewThis research is an examination of notable sales and profit, making trends at the region, category and product levels. It is geared towards identifying growth facilitators, segments that are on the decline, and the next workable environment.
+
+2. Key FindingsA. Sales Trends Over TimeRevenue has been continuously increasing year after year.
+
+The peak in sales occurs in November and December, probably owing to holiday shopping.
+
+Q1 experiences a sales dip which goes to show that there is room for targeted promotions in that season.
+
+B. Category and Sub, Category PerformanceTechnology is the leading category not only in terms of sales but also profitability.
+
+Office Supplies is a revenue, generator but it has low profit margins.
+
+Furniture is a top seller but its spoil profit volatility due to the high use of discount and shipping costs.
+
+Among the leading sub, categories are:
+
+PhonesChairsBindersStorageC. Top 10 ProductsThe Top 10 diagram illustrates the products that have the highest impact on revenue.
+
+It often refers to high, price consumption items such as:
+
+Ergonomic chairsPhonesLarge office equipmentHeavy furnitureIt is these products that need to be kept in stock and promoted.
+
+D. Regional PerformanceRegion West is the leader both in terms of sales and profit margin strength.
+
+Region the East has a good performance as well but with more
